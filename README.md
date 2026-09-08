@@ -25,5 +25,5 @@ My work spans full-stack development, mobile applications, and applied security 
 
 ## 📫 Let's Connect
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-eddiefuentes.dev-black?style=flat&logo=google-chrome&logoColor=white)(https://eddiefuentes.dev)]
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome&logoColor=white)(https://eddiefuentes.dev)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eddiefuentes)
